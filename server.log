@@ -1,0 +1,16 @@
+
+> todo-app@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.1.3
+   - Local:        http://localhost:3001
+   - Network:      http://172.17.0.3:3001
+
+ ✓ Starting...
+ ✓ Ready in 2.1s
+ ○ Compiling / ...
+(node:960) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ ✓ Compiled / in 5.5s (632 modules)
+ GET / 200 in 6019ms
+ ✓ Compiled in 219ms (298 modules)
